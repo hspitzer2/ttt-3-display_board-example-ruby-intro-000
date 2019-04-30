@@ -1,4 +1,4 @@
-ruby display_board = lib/display_board
+ruby display_board = display_board
 display_board = "A Tic Tac Toe Board"
   puts "   |   |   "
   puts "-----------"
