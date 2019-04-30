@@ -1,1 +1,7 @@
-# Define a method display_board that prints a 3x3 Tic Tac Toe Board
+display_board = lib/display_board
+display_board = "A Tic Tac Toe Board"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
